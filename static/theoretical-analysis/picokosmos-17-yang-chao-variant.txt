@@ -1,0 +1,102 @@
+:: PICOKOSMOS 17 Yang Chao variant
+:: Recurrence formula:
+:: P(n) = P(n-1) + P(n-2) + 8 for n >= 6
+:: Base cases:
+:: P(4) given as 18
+:: P(5) given as 34
+:: Asymptotic growth ratio: golden ratio
+:: Growth type: exponential
+
+
+'PICOKOSMOS 17 Yang Chao variant (4-box variant)'
+
+ #####
+ # + ##
+##$.  #
+#  *$ #
+#   * #
+##  ###
+ ####
+
+Best Solution 59/18
+drrddLLUlldRdrUrruulDuullDDRUdddlUluRurrrddLLUlldRdrUrruulD
+
+
+'PICOKOSMOS 17 Yang Chao variant (5-box variant)'
+
+ #####
+ # + #
+ # .$##
+##$*  #
+#  *  #
+#   * #
+##  ###
+ ####
+
+Best Solution 106/34
+ldDDRUdddlUluRurrrddLLUdrruulDlddlUluRuuurrDDLUdrrddLLUlldRdrUrruulDuu
+llDDRUdddlUluRurrrddLLUlldRdrUrruulD
+
+
+'PICOKOSMOS 17 Yang Chao variant (6-box variant)'
+
+ #####
+ # + #
+ #$. #
+ # *$##
+## *  #
+#  *  #
+#   * #
+##  ###
+ ####
+
+Best Solution 181/60
+rdDDLUdrrddLLUlldRdrUrruulDuullDDRUdddlUluRurrrddLLUlldRdrUrruulDuuuul
+lDDRUldDDRUdddlUluRurrrddLLUdrruulDlddlUluRuuurrDDLUdrrddLLUlldRdrUrru
+ulDuullDDRUdddlUluRurrrddLLUlldRdrUrruulD
+
+
+'PICOKOSMOS 17 Yang Chao variant (7-box variant)'
+
+ #####
+ # + #
+ # .$#
+ #$* #
+ # * ##
+## *  #
+#  *  #
+#   * #
+##  ###
+ ####
+
+Best Solution 306/102
+ldDDRUldDDRUdddlUluRurrrddLLUdrruulDlddlUluRuuurrDDLUdrrddLLUlldRdrUrr
+uulDuullDDRUdddlUluRurrrddLLUdrruulDlddlUluRuuuuurrDDLUrdDDLUdrrddLLUl
+ldRdrUrruulDuullDDRUdddlUluRurrrddLLUlldRdrUrruulDuuuullDDRUldDDRUdddl
+UluRurrrddLLUdrruulDlddlUluRuuurrDDLUdrrddLLUlldRdrUrruulDuullDDRUdddl
+UluRurrrddLLUlldRdrUrruulD
+
+
+'PICOKOSMOS 17 Yang Chao variant'
+
+ #####
+ # + #
+ #$. #
+ # *$#
+ # * #
+ # * ##
+## *  #
+#  *  #
+#   * #
+##  ###
+ ####
+
+Best Solution 505/170
+rdDDLUrdDDLUdrrddLLUlldRdrUrruulDuullDDRUdddlUluRurrrddLLUlldRdrUrruul
+DuuuullDDRUldDDRUdddlUluRurrrddLLUdrruulDlddlUluRuuurrDDLUdrrddLLUlldR
+drUrruulDuullDDRUdddlUluRurrrddLLUlldRdrUrruulDuuuuuullDDRUldDDRUldDDR
+UdddlUluRurrrddLLUdrruulDlddlUluRuuurrDDLUdrrddLLUlldRdrUrruulDuullDDR
+UdddlUluRurrrddLLUdrruulDlddlUluRuuuuurrDDLUrdDDLUdrrddLLUlldRdrUrruul
+DuullDDRUdddlUluRurrrddLLUlldRdrUrruulDuuuullDDRUldDDRUdddlUluRurrrddL
+LUdrruulDlddlUluRuuurrDDLUdrrddLLUlldRdrUrruulDuullDDRUdddlUluRurrrddL
+LUlldRdrUrruulD

@@ -1,0 +1,361 @@
+:: All solutions found through time and effort. (Carlos)
+:: Optimized Bibo #3 solution: 3366/763, included; a 3228/763 solution
+:: is encapsulated in the solution for "Life #32 S - a" if you rotate it
+:: and skip the first 5 steps.
+:: Optimized Bibo #4 solution: 6882/1637, omitted.
+:: Optimized Bibo #5 solution: 15936/3795, omitted.
+
+
+nakamiya #04
+
+ ############
+ #    @     #
+ #********  #
+##       $ ##
+#  ******.*#
+#          #
+############
+
+Title: nakamiya #04
+Author: Hirohiko Nakamiya
+
+Best Solution 254/53
+llllDDuurrrrrrrrddLLLLLLLrrrrrrddllURurruullDRulllDRDRddlUdllURURlddrr
+uLuuurrdLurrrdLulldDlddrrrUULLuurDurrdLdLruulldRulllDRurrddrddllluUddl
+luRdrrrruuluullldDuullDRurrrrddrddllllluUddllURdrrrrrruuluullllldDuull
+dRurrrrrrddrddllllllluUddlluRUrrrrrRRuurrdLD
+
+
+A cell
+
+ ##################
+ #                #
+ #@************** #
+#  .            * #
+# $************$* #
+## .            * #
+ # ************** #
+ #                #
+ ##################
+
+Title: A cell
+Author: Vipul Patel
+
+Best Solution 675/67
+urrrrrrrrrrrrrrrddddLLLLLLLLLLLLLLrrrrrrrrrrrrrrddlUdllURdlllURdrrrruu
+uuuulllllllllllllllddrrrrrrrrrrrDDuullDRulllllllllluurrrrrrrrrrrrrrrdd
+ddddllllluUddllURdrrrrrruuuuuulllllllllllllllddrrrrrrrrrdDuullDRulllll
+llluurrrrrrrrrrrrrrrddddddllllllluUddllURdrrrrrrrruuuuuullllllllllllll
+lddrrrrrrrdDuullDRulllllluurrrrrrrrrrrrrrrddddddllllllllluUddllURdrrrr
+rrrrrruuuuuulllllllllllllllddrrrrrdDuullDRulllluurrrrrrrrrrrrrrrdddddd
+llllllllllluUddllURdrrrrrrrrrrrruuuuuulllllllllllllllddrrrdDuullDRullu
+urrrrrrrrrrrrrrrddddddllllllllllllluUddlluRdrrrrrrrrrrrrrruuuuuullllll
+lllllllllddrdDuurrrrrrrrrrrrDDLLLLLLLLLLLrrrrrrrrrrruulllllllllllllldR
+uuurrrrrrrrrrrrrrrddddddllllllllllllllluUUluR
+
+
+Spain - S
+
+ #############
+ #           #
+## *#**#**#* ##
+## *          #
+#.*****#****$ #
+##         * @#
+## *#*****#* ##
+ #           #
+ #############
+
+Title: Spain - S
+Author: Jordi Domenech
+
+Best Solution 475/63
+uulllllllllLrrrrrrrrrrddlddlllllllllluurULdrrrULuRddlllddrrrrrrrrrruur
+uuluulllllllDDuurrrrrrrddrddlUUddddlllllllllluurrrrrrrrRlllllllllddrrr
+rrrrrrruUlllllllluuruullldDDDrrrrrrrrrrruullllllLDLUrrrrrrrrddlddlllll
+llUUddrrULdrrrULuRddrrruuruullllDDlddlluUlllluuuurrrrrrrrrDullllllllld
+dddrrrrddrruLruruulDDuurrRuulllllllllddddrrrrRddrrULdrrrruulULulldDuur
+rdLrrdrruLLdrddllluURRllddrrruUluUllDDrruLdlllllllluuuurrrrrrrrrDDlddr
+rruuLDLUddllllllllluuuurrrrrrrrrrDDrdLrdLddllllllllllUU
+
+
+S
+
+#############
+#           #
+# ********* #
+# *         ##
+# .********$ #
+#         *  #
+# ********* ##
+###   @     #
+  ###########
+
+Title: S
+Author: Jordi Domenech
+
+Best Solution 355/63
+rrrrruuLLLLLLLULrdrrULdrrrrrrddllURdlllURuULDrddrruuULrdddlluuRlddrruL
+uurDrruLuuullllllllllddddrRRRRRRRuuRlddlluRdllluRdllluRdllluuuurrDDuur
+rDLulllddddrrruUddrruLdlllluuuurrrrdDuurrDLulllllddddrrrrruUddrruLdlll
+llluuuurrrrrrdDuurrDLulllllllddddrrrrrrruUddrddrrUULULDlllllllluuuurrr
+rrrrrdDuurrdLulllllllllddddrrrrrrrrruUddrruLdlllllllllluuuurrrrrrrrrrd
+DDrdL
+
+
+Life #32 S - a (whose 90-degree clockwise rotation with bottom-left player position is today known as Bibo #3)
+
+###############
+#             #
+# #########** #
+# #           ##
+# .**********$ #
+#           *  #
+#####*#####** ##
+    #   @     #
+    ###########
+
+Title: Life #32 S - a (whose 90-degree clockwise rotation with bottom-left player position is today known as Bibo #3)
+Author: Jordi Domenech + Premysl Zika
+
+Best Solution 3233/763
+rrrrruuLLLLLLLLLULrdrrULdrrrULdrrrULdrrrULdrrruLuuullllllllllllddddrRR
+RRRRRRRRllllllllllluuuurrrrrrrrrrDDDuuurrdddLruuullddRddLLLuuRRuulllll
+lllllddddrrrrrrRluuRRdLdllllllluuuurrrrrrrrrrddDLdLLLLLuuRRDrdrrurrdLu
+rrrdLddllllllllUUrRurRRRuuullllllllllddddrrRRddrrrrrrUUUllllullDDllllu
+uuurrrrrrrrrrrrdDDLLdddrruUddlluRluuLLdRluuLLddRluurrdrrrDrruLuuulldDR
+lLdlLuRlddlLLuuRRDrdLurrrdRRUrrdLulLdddrrUUruLdddlluRluuuuurrdDDLruuul
+lddRdDllLuuRRDrdLurrrdLulldddrrUULrddlluRuulDuullddRluurruulllllllllld
+dddrruuRRdRRdRlullullddlluuuurrrrrrrrrrdddrdddlllllllUURuruLddlddrrrrr
+rruuululldLrurrdrdddllllllluuruurRdrRuruurrdLulllllllllllddddrruurRRdd
+lddrrrrrrruuuUddrruLdlddllllllluuruulllddlluuuurrrrrrrrrrrrdDllldlluLL
+ddlddrrrrrrruuULLrrdrruLuuullDDRllddRRULrdddllllllluuruurrddRRRurDluuu
+ullllllllllddddrruurRRddlddrrrrrrUUllluuRRllddrrrddlllllluuruuRlddlddr
+rrrrruullluLrdrrULdrrrurrdLulLdddrrUUddlluRluurDllllLuullllddlluuuurrr
+rrrrrrrdDuurrdLulllllllllllddddrruurrrrddrrrrruUddrruLdlllluuRRDLdlllu
+ullllddlluuuurrrrrrrrrrrrdDDLLrruuullDDuurrdLrddlUddLddlllllluuLLuurrr
+rRRRRDrrrdLullullllddLLddrrrrrrrrUUddlluRlULLLLuullDDRluullddRluurrdLu
+rrrdLurrrDLurrrDLrrDrruLuuullDDRllddRddrrUULULDrrruLdlluuuurrdDDrdLddl
+lURlUURDrruLuuulldDRllllddRRULdrRRUrrdLulLdddrrUUruLdddlluRluuuuurrdLr
+DDLUdDllluuRRDrdLurrrdLulldddrrUUddlluRluuullddRluurrdLrrDrruLuuullDDR
+llddRddrrUULULDrrruLdlluuuurrdDDrdLddllURlUURDrruLuuulldDRllllllddRRUL
+drRRULdrRRUrrdLulLdddrrUUruLdddlluRluuuuurrdLrDDLUdDllluuRRDrdLurrrdLu
+lldddrrUUddlluRluuullddRluurrdLrrDrruLuuullDDRllddRRUrrdLulLdddrrUUruL
+dddlluRluuuuurrdLrDDLUdDllllluuRRRRDrdLurrrdLulldddrrUUddlluRluuulllld
+drrRllluulllddRRUrurrDLurrrdLrrDrruLuuullDDRluullllllllllddddRRRuurRRR
+RRddRRULUlllddRRUrrdLurrrdLulldddrrUUruLdddlluuulLulllllddllluuuurrrrr
+rrrrrrrdDDLLdddrruUddlluRluuuLLddRluurrdLrrDrruLuuullDDRllddRddrrUULUL
+DrrruLdlluuuurrdDDrdLddllURlUURDrruLuuullllllllllllddddrrruurrddRRRRRd
+drrUUUdddlluRluuRDlllllluullddllluuuurrrrrrrrrrdDllLLLddLLuuRlddrruLdr
+rrULdrrrULdrrruLdrrruLdlluuuurrdLrDDLUddllluuRRDrdLurrrdLulldddrrUUddl
+luRluuullddRluurrdLrrDrruLuuullDDRllddRddrrUULULDrrruLdlluuuurrdDDLruu
+ullddRddllllluuRRRRuurrdLulllllllllllddddrRRRuuRRddrrrrruUddllllluuRRR
+RDrdLurrrdLddllllllllUUlllluuuurrrrrrrrrrrrdDDllullllddLLddrrrrrrrruUd
+dllURlULLLLuullDDRluurrdLurrrDLurrrDLrrDrruLuuullDDRllddRddrrUULULDrrr
+uLdlluuuurrdDDrdLddllURlUURDrruLuuulldDRllllddRRULdrRRUrrdLulLdddrrUUr
+uLdddlluRluuuuurrdLrDDLUdDllluuRRDrdLurrrdLulldddrrUUddlluRluuullddRlu
+urrdLrrDrruLuuullDDRllddRddrrUULULDrrruLdlluuuurrdDDrdLddllURlUURDrruL
+uuulldDRllllllddRRULdrRRULdrRRUrrdLulLdddrrUUruLdddlluRluuuuurrdLrDDLU
+dDllluuRRDrdLurrrdLulldddrrUUddlluRluuullddRluurrdLrrDrruLuuullDDRluul
+lllllllllddddrrRRRRuuRRRddRddrrUULULDrrruLdlluUllllddlllllluuuurrrrrrr
+rrrrrdDDrdLddllURlUllLLuurrDLurrrDLrRDrruLuuullDDRllddRddrrUULULDrrruL
+dlluuuurrdDDrdLddllURlUURDrruLuuulldDRllllddRRULdrRddrrUULULDrrruLdllu
+uuurrdDDrdLddllURlUURDrruLuuullllllllllllddddrrrrRRRRRRddrrUUUdddlluRl
+uuRDllllllllllluuuurrrrrrrrrrdDuurrdLulllllllllllddddrrrrrrrrrrruUddrr
+uLdlllluuRRDLdllllllllluuuurrrrrrrrrrrrdDDLdLrurrdLulLdddrrUUddlluRluu
+rDrruLuuullllllllllllddddrrrrrrrrRRuuRlddddrrUULUlDlllllllllluuuurrrrr
+rrrrrDDuurrdLulllllllllllddddrrrrrrrrrrruUddrruLdlllllllllllluuuurrrrr
+rrrrrrrdDDrdL
+
+
+Bibo #1
+
+  #######
+  #     #
+  # .## #
+  # * # #
+### * # #
+# * * # #
+# # * # #
+# * * * #
+# *** * #
+#@  $   #
+###  ####
+  ####
+
+Title: Bibo #1
+Author: Jordi Domènech + Přemysl Zíka + Archanfel
+
+Best Solution 450/101
+rrUUUUURUdlddRUdldddlluuRDrRULdddrUrrruuLLDurrddlUruuuuuuulllldDDDDDDR
+RlluuurrDDLdllluuuRRdDuuuurrDDLUluuurrrrddddddLLLUlUdrddLUdrddlUruuuUl
+llddRRllddRRUdlluurDrrULdlluuurrDDrdLurrrruuuuuullllddDDrrDullllddRRUR
+uLdddrUluuuuuurrrrddddddlLrrddlUruuuuuuulllldddddddrRllddrUluuuurrDDLU
+luuuuurrrrddddddddlLLUlUdrddlUruUlllddRRlluurDurrdLddrUrrruuuuuuuullll
+ddddDDrrDullllddRRURuLuuuuuurrrrddddddLLrrddlUruuuuuuulllldddddddrRlld
+drUluuuuuuuurrrrddddddddlLLdlU
+
+
+Bibo #2
+
+  #######
+  #     #
+  # .## #
+  # * # #
+### * # #
+# * * # #
+# # * # #
+# # * # #
+# # * # #
+# * * * #
+# *** * #
+#@  $   #
+###  ####
+  ####
+
+Title: Bibo #2
+Author: Jordi Domènech + Přemysl Zíka + Archanfel
+
+Best Solution 1100/265
+rrUUUUUUURUdlddRUldddRUldddRUldddrUrrruuuuuuuuuulllldDDDDDDDDuuuuuuuuu
+rrrrddddddddLLLrrrddlllUdrrruullDllUUUrrDDrrddlUruuuuuuuuullllddddrrDD
+lldddrRlluuurrDDLdlUrdddlUlluuuuuuRRuuuurrrrddddddddddlLLLruulDrdrrruu
+LLrrddlUdlluRuuullUUlldddddRRuUUrrddddldlUUlluuuuurrUUrrDDDDlldDuurruu
+uullddDuuurrddLUrdddlUrdDDLUdDLddrUrrruuLLDuullDDRUruuullDDRddlUrdddlU
+ruuuUruuullDllddddRRllddRRUrULdddrUluurrrrddlLLdlUlluuRDuRRRUUllDurrdd
+lUdDLddrUrrruuLLDuullDlluuuurrurrdDDuuulldllddddrruuURULdddrUlddllddRR
+URULdddrUluurrrrddlLLUdrrruullDlluuurrDDrrddlUruuuuuuuuullllDDDDrrDDll
+dddrRlluuurrDDLdlUrdddlUlluuuuuuRRuuuurrrrddddddddddlLLuuruullUUlldddd
+ddrRlluuRDuRUUrruuLLDurrddlUrdddLUddLddrUrrruuLLDuullDllddRRURULdddrUl
+uurrrrddlLLdlUlluuRDuRRDLddrUrrruulLDuuuullDDRUldDllddRRURULdddrUluurr
+rrddlLLdlUlluuRDuRRDLddrUrrruuuuuuuuuullllddDDDDDDllddRRRllluurDurrDLu
+uuuuuuuurrrrddddddddlLrrddlUruuuuuuuuulllldddddddddrRllddrUluuuurrDDLU
+luuuuuuurrrrddddddddddlLLUlUdrddlUruUlllddRRlluurDurrdLddrUrrruuuuuuuu
+uullllddddddDDrrDullllddRRURuLuuuuuuuurrrrddddddddLLrrddlUruuuuuuuuull
+lldddddddddrRllddrUluuuuuuuuuurrrrddddddddddlLLdlU
+
+
+Bibo #3
+
+  #######
+  #     #
+  # .## #
+  # * # #
+### * # #
+# * * # #
+# # * # #
+# # * # #
+# # * # #
+# # * # #
+# # * # #
+# * * * #
+# *** * #
+#@  $   #
+###  ####
+  ####
+
+Title: Bibo #3
+Author: Jordi Domènech + Přemysl Zíka + Archanfel
+
+Best Solution 3366/763
+rrUUUUUUUUURUdlddRUldddRUldddRUldddRUldddrUrrruuuuuuuuuuuulllldDDDDDDD
+DDDuuuuuuuuuuurrrrddddddddddLLLrrrddlllUdrrruullDllUUUrrDDrruuuuuuuuuu
+llllddddddDurrDDlUluuuuuuurrrrddddddddddllLUlUUUUUrrDDLdlddrddlUrdddlU
+lluuuuuuuuRRdDrdDDDrrruuuuuuuuuullllddDDllddddddRRRuuuuruuLLuuuurrrrdd
+ddddddddddlLLUUlllddrRlluurDurrUUlDurrUUllDurrddldddLddrUrrruulLDuUluU
+rDulluUUrrDDLdlUrdddlDDRddlUruUlllddRRdrUllluurDurrrrrddlLLUdrrruullDl
+LuuUrrDDLdlUrdddlUruulllddRRUdlluurDrruLrruullDurrddrruuuuuuuuuulllldd
+rrDDlDDlDuruuruulluurrrrddddddddddllldllluuuuuuuRRDrdrUllulldddddddrrr
+uruulUdrddldllluuuuuuurrdrrdDldDrdrrddlUruuuuuuuuuuullllddrrdDDllulldd
+dddddrrrRllddrUlulluuuuuuurrdrruuulluurrrrddddddddddddlLuuuluurUUllull
+dddddddrrRUUddlddrUrrruuLLDuullDDRUdllluuuuuuurrdrrddllDDDrdLurrrruuuu
+uuuuuullllddrrdDDllullddddddRRuuurrDDuulldddlluuuuuurrdrrDullulldddddd
+rruuurUdlddRUldddrddlUruUlllddRRlluurDurrdLuuuuUrruuuulluurrrrdddddddd
+ddlLrrddlUruuuuuuuuuuullllddrrddddlldddddrRllddrUluuuurrDDLUluuurruuuu
+lluurrrrddddddddddddlLLUUddrrruuLLrrddlUdlluRllUlluuuuuurrUUrrddddDDDD
+LdddlUruuruuuullUUllddddddddRRlluurDuRUUUUrruuLLDurruullDurrddlUrdddlU
+rdddLUrdddLUddLddrUrrruuLLDuullDllddRRURULdddrUluurrrrddlLLdlUlluuRDuR
+RDLddrUrrruulLDuuuullDDRUldDDRddlUruUlllddRRdrUllluurDurrrrrddlUdLLURl
+LuuurrDDLdlUrdddlUruulllddRRlluurDurrruullDurrddlUddLddrUrrruuLLDuullD
+llddRRURULdddrUluurrrrddlLLdlUlluuRDuRRDLddrUrrruulLDuuuuuullDDRUldDDR
+UldDDRddlUruUlllddRRdrUllluurDurrrrrddlUdLLURlLuuurrDDLdlUrdddlUruulll
+ddRRlluurDurrruullDurrddlUddLddrUrrruuLLDuullDDRddlUruUlllddRRdrUllluu
+rDurrrrrddlUdLLURlLuuuuurrDDDDLdlUrdddlUruulllddRRlluurDurrruuuullddDu
+uurruuullDDRdrddLUrdddlUddLddrUrrruuLLDuullDDRUrrruuuuuuuuuullllDDDrrd
+DDDDDuullDDRddlUrdddlUruulllddRRdrUllluurrruUruuuuulluuurrrrdddddddddd
+ddlLLUUlllddrRlluurDurrRUUllDurrddlUddLddrUrrruuLLDuullDllddRRURULdddr
+UluurrrrddlLLdlUlluuRDuRRDLddrUrrruuuuuuuuuuuulllldddrrddllDDDDDllddRR
+RllluurDurrDLuuuuuurruulluuurrrrddddddddddlLrrddlUruuuuuuuuuuulllldddr
+rddllddddddrRllddrUluuuuuuurruulluuurrrrddddddddddddlLLruuuuUUUllddddd
+dRdrrruuuuuuuuuuuulllldddrrDulluuurrrrddddddddddddllluluuuuuurUdlddRUl
+dddRUldddrUddrrruuLLrrddlUdlluRlluuurrDDLdlUrdddlUruulllddRRlluurDurrr
+uullDurrddlUddLddrUrrruuLLDuullDllddRRURULdddrUluurrrrddlLLUdrrruullDl
+luuuuurrDDDDrrddlUruuuuuuuuuuulllldddDrrDDlldddddrRlluuuuurrDDDDLdlUrd
+ddlUlluuuuuuuuRRuuuurrrrddddddddddddlLLuuruuuullUUllddddddddrRlluuRDuR
+UUUUrruuLLDurrddlUrdddLUrdddLUddLddrUrrruuLLDuullDllddRRURULdddrUluurr
+rrddlLLdlUlluuRDuRRDLddrUrrruulLDuuuullDDRUldDDRddlUruUlllddRRdrUllluu
+rDurrrrrddlUdLLURlLuuurrDDLdlUrdddlUruulllddRRlluurDurrruullDurrddlUdd
+LddrUrrruuLLDuullDllddRRURULdddrUluurrrrddlLLdlUlluuRDuRRDLddrUrrruulL
+DuuuuuullDDRUldDDRUldDDRddlUruUlllddRRdrUllluurDurrrrrddlUdLLURlLuuurr
+DDLdlUrdddlUruulllddRRlluurDurrruullDurrddlUddLddrUrrruuLLDurruuuuuuuu
+uullllddDDDDrrDDDllDllddRRURULdddrUluurRuuuulluuuuuurrrrddddddddddddlL
+LdlUlluuRDuRuuUUrrddLUrdddLUdDLddrUrrruuLLDuullDllddRRURULdddrUluurrrr
+ddlLLdlUlluuRDuRRDLddrUrrruulLDuuuullDDRUldDllddRRURULdddrUluurrrrddlL
+LdlUlluuRDuRRDLddrUrrruuuuuuuuuuuullllddddDDDDDDllddRRRllluurDurrDLuuu
+uuuuuuuurrrrddddddddddlLrrddlUruuuuuuuuuuulllldddddddddddrRllddrUluuuu
+rrDDLUluuuuuuuuurrrrddddddddddddlLLUlUdrddlUruUlllddRRlluurDurrdLddrUr
+rruuuuuuuuuuuullllddddddddDDrrDullllddRRURuLuuuuuuuuuurrrrddddddddddLL
+rrddlUruuuuuuuuuuulllldddddddddddrRllddrUluuuuuuuuuuuurrrrdddddddddddd
+lLLdlU
+
+
+Bibo #4
+
+  #######
+  #     #
+  # .## #
+  # * # #
+### * # #
+# * * # #
+# # * # #
+# # * # #
+# # * # #
+# # * # #
+# # * # #
+# # * # #
+# # * # #
+# * * * #
+# *** * #
+#@  $   #
+###  ####
+  ####
+
+Title: Bibo #4
+Author: Jordi Domènech + Přemysl Zíka + anian + Archanfel
+
+
+Bibo #5
+
+  #######
+  #     #
+  # .## #
+  # * # #
+### * # #
+# * * # #
+# # * # #
+# # * # #
+# # * # #
+# # * # #
+# # * # #
+# # * # #
+# # * # #
+# # * # #
+# # * # #
+# * * * #
+# *** * #
+#@  $   #
+###  ####
+  ####
+
+Title: Bibo #5
+Author: Jordi Domènech + Přemysl Zíka + Archanfel

@@ -1,0 +1,176 @@
+:: PICOKOSMOS 12
+:: Recurrence formula:
+:: P(n) = P(n-1) + P(n-2) + 6 - (-1)^n for n >= 6
+:: Base cases:
+:: P(4) given as 23
+:: P(5) given as 43
+:: Asymptotic growth ratio: golden ratio
+:: Growth type: exponential
+
+
+'PICOKOSMOS 12 (4-box variant)'
+
+ #####
+ # + #
+ #$.$##
+## *  #
+#  *  #
+#    ##
+##  ##
+ ####
+
+Best Solution 57/23
+lDDDRUrrdLdlUluuurrDDLUddlldRdrUrUruLullDDRUdlldRdrUrUruL
+
+
+'PICOKOSMOS 12 (5-box variant)'
+
+ #####
+ # + #
+ #$.$#
+ # * ##
+## *  #
+#  *  #
+#    ##
+##  ##
+ ####
+
+Best Solution 104/43
+rDDDLUdDlddrUrUruLullDDRUdlldRdrUrUruLuuullDDRUldDDRUrrdLdlUluuurrDDLU
+ddlldRdrUrUruLullDDRUdlldRdrUrUruL
+
+
+'PICOKOSMOS 12 (6-box variant)'
+
+ #####
+ # + #
+ #$.$#
+ # * #
+ # * ##
+## *  #
+#  *  #
+#    ##
+##  ##
+ ####
+
+Best Solution 175/71
+lDDDRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUruLullDDRUrrdLdlUluuuuurrDDLUr
+dDDLUddlldRdrUrUruLullDDRUdlldRdrUrUruLuuullDDRUldDDRUrrdLdlUluuurrDDL
+UddlldRdrUrUruLullDDRUdlldRdrUrUruL
+
+
+'PICOKOSMOS 12'
+
+ #####
+ # + #
+ #$.$#
+ # * #
+ # * #
+ # * ##
+## *  #
+#  *  #
+#    ##
+##  ##
+ ####
+
+Best Solution 296/121
+rDDDLUrdDDLUdDlddrUrUruLullDDRUdlldRdrUrUruLuuullDDRUldDDRUrrdLdlUluuu
+rrDDLUddlldRdrUrUruLullDDRUdlldRdrUrUruLuuuuullDDRUldDDRUldDDRUrrdLdlU
+luuurrDDLUddlldRdrUrUruLullDDRUrrdLdlUluuuuurrDDLUrdDDLUddlldRdrUrUruL
+ullDDRUdlldRdrUrUruLuuullDDRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUruLullD
+DRUdlldRdrUrUruL
+
+
+'PICOKOSMOS 12 (8-box variant)'
+
+ #####
+ # + #
+ #$.$#
+ # * #
+ # * #
+ # * #
+ # * ##
+## *  #
+#  *  #
+#    ##
+##  ##
+ ####
+
+Best Solution 487/197
+lDDDRUldDDRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUruLullDDRUrrdLdlUluuuuur
+rDDLUrdDDLUddlldRdrUrUruLullDDRUdlldRdrUrUruLuuullDDRUldDDRUrrdLdlUluu
+urrDDLUddlldRdrUrUruLullDDRUrrdLdlUluuuuuuurrDDLUrdDDLUrdDDLUddlldRdrU
+rUruLullDDRUdlldRdrUrUruLuuullDDRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUru
+LullDDRUdlldRdrUrUruLuuuuullDDRUldDDRUldDDRUrrdLdlUluuurrDDLUddlldRdrU
+rUruLullDDRUrrdLdlUluuuuurrDDLUrdDDLUddlldRdrUrUruLullDDRUdlldRdrUrUru
+LuuullDDRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUruLullDDRUdlldRdrUrUruL
+
+
+'PICOKOSMOS 12 (9-box variant)'
+
+ #####
+ # + #
+ #$.$#
+ # * #
+ # * #
+ # * #
+ # * #
+ # * ##
+## *  #
+#  *  #
+#    ##
+##  ##
+ ####
+
+Best Solution 802/325
+rDDDLUrdDDLUrdDDLUdDlddrUrUruLullDDRUdlldRdrUrUruLuuullDDRUldDDRUrrdLd
+lUluuurrDDLUddlldRdrUrUruLullDDRUdlldRdrUrUruLuuuuullDDRUldDDRUldDDRUr
+rdLdlUluuurrDDLUddlldRdrUrUruLullDDRUrrdLdlUluuuuurrDDLUrdDDLUddlldRdr
+UrUruLullDDRUdlldRdrUrUruLuuullDDRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUr
+uLullDDRUdlldRdrUrUruLuuuuuuullDDRUldDDRUldDDRUldDDRUrrdLdlUluuurrDDLU
+ddlldRdrUrUruLullDDRUrrdLdlUluuuuurrDDLUrdDDLUddlldRdrUrUruLullDDRUdll
+dRdrUrUruLuuullDDRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUruLullDDRUrrdLdlU
+luuuuuuurrDDLUrdDDLUrdDDLUddlldRdrUrUruLullDDRUdlldRdrUrUruLuuullDDRUl
+dDDRUrrdLdlUluuurrDDLUddlldRdrUrUruLullDDRUdlldRdrUrUruLuuuuullDDRUldD
+DRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUruLullDDRUrrdLdlUluuuuurrDDLUrdDD
+LUddlldRdrUrUruLullDDRUdlldRdrUrUruLuuullDDRUldDDRUrrdLdlUluuurrDDLUdd
+lldRdrUrUruLullDDRUdlldRdrUrUruL
+
+
+'PICOKOSMOS 12 (10-box variant)'
+
+ #####
+ # + #
+ #$.$#
+ # * #
+ # * #
+ # * #
+ # * #
+ # * #
+ # * ##
+## *  #
+#  *  #
+#    ##
+##  ##
+ ####
+
+Best Solution 1307/527
+lDDDRUldDDRUldDDRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUruLullDDRUrrdLdlUl
+uuuuurrDDLUrdDDLUddlldRdrUrUruLullDDRUdlldRdrUrUruLuuullDDRUldDDRUrrdL
+dlUluuurrDDLUddlldRdrUrUruLullDDRUrrdLdlUluuuuuuurrDDLUrdDDLUrdDDLUddl
+ldRdrUrUruLullDDRUdlldRdrUrUruLuuullDDRUldDDRUrrdLdlUluuurrDDLUddlldRd
+rUrUruLullDDRUdlldRdrUrUruLuuuuullDDRUldDDRUldDDRUrrdLdlUluuurrDDLUddl
+ldRdrUrUruLullDDRUrrdLdlUluuuuurrDDLUrdDDLUddlldRdrUrUruLullDDRUdlldRd
+rUrUruLuuullDDRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUruLullDDRUrrdLdlUluu
+uuuuuuurrDDLUrdDDLUrdDDLUrdDDLUddlldRdrUrUruLullDDRUdlldRdrUrUruLuuull
+DDRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUruLullDDRUdlldRdrUrUruLuuuuullDD
+RUldDDRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUruLullDDRUrrdLdlUluuuuurrDDL
+UrdDDLUddlldRdrUrUruLullDDRUdlldRdrUrUruLuuullDDRUldDDRUrrdLdlUluuurrD
+DLUddlldRdrUrUruLullDDRUdlldRdrUrUruLuuuuuuullDDRUldDDRUldDDRUldDDRUrr
+dLdlUluuurrDDLUddlldRdrUrUruLullDDRUrrdLdlUluuuuurrDDLUrdDDLUddlldRdrU
+rUruLullDDRUdlldRdrUrUruLuuullDDRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUru
+LullDDRUrrdLdlUluuuuuuurrDDLUrdDDLUrdDDLUddlldRdrUrUruLullDDRUdlldRdrU
+rUruLuuullDDRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUruLullDDRUdlldRdrUrUru
+LuuuuullDDRUldDDRUldDDRUrrdLdlUluuurrDDLUddlldRdrUrUruLullDDRUrrdLdlUl
+uuuuurrDDLUrdDDLUddlldRdrUrUruLullDDRUdlldRdrUrUruLuuullDDRUldDDRUrrdL
+dlUluuurrDDLUddlldRdrUrUruLullDDRUdlldRdrUrUruL
