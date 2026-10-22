@@ -1,0 +1,102 @@
+:: PICOKOSMOS 17 David Holland variant
+:: Recurrence formula:
+:: P(n) = P(n-1) + P(n-2) + 7 for n >= 6
+:: Base cases:
+:: P(4) given as 19
+:: P(5) given as 35
+:: Asymptotic growth ratio: golden ratio
+:: Growth type: exponential
+
+
+'PICOKOSMOS 17 David Holland variant (4-box variant)'
+
+ #####
+##@. #
+# $.$##
+#. *  #
+# $   #
+###  ##
+  ####
+
+Best Solution 54/19
+DlddRRUrrdLdlUlluurDuurrDDLUdddrUruLulllddRRULrrrdLdlU
+
+
+'PICOKOSMOS 17 David Holland variant (5-box variant)'
+
+ #####
+ # .@#
+##$.$#
+#  * ##
+#. *  #
+# $   #
+###  ##
+  ####
+
+Best Solution 101/35
+DDDLUdddrUruLulllddRRUdlluurDrddrUruLuuullDDRUdllddRRUrrdLdlUlluurDuur
+rDDLUdddrUruLulllddRRULrrrdLdlU
+
+
+'PICOKOSMOS 17 David Holland variant (6-box variant)'
+
+ #####
+ #@. #
+ #$.$#
+## * #
+#  * ##
+#. *  #
+# $   #
+###  ##
+  ####
+
+Best Solution 176/61
+DDDRUdllddRRUrrdLdlUlluurDuurrDDLUdddrUruLulllddRRUrrdLdlUlluurDuuuurr
+DDLUrdDDLUdddrUruLulllddRRUdlluurDrddrUruLuuullDDRUdllddRRUrrdLdlUlluu
+rDuurrDDLUdddrUruLulllddRRULrrrdLdlU
+
+
+'PICOKOSMOS 17 David Holland variant (7-box variant)'
+
+ #####
+ # .@#
+ #$.$#
+ # * #
+## * #
+#  * ##
+#. *  #
+# $   #
+###  ##
+  ####
+
+Best Solution 301/103
+DDDLUrdDDLUdddrUruLulllddRRUdlluurDrddrUruLuuullDDRUdllddRRUrrdLdlUllu
+urDuurrDDLUdddrUruLulllddRRUdlluurDrddrUruLuuuuullDDRUldDDRUdllddRRUrr
+dLdlUlluurDuurrDDLUdddrUruLulllddRRUrrdLdlUlluurDuuuurrDDLUrdDDLUdddrU
+ruLulllddRRUdlluurDrddrUruLuuullDDRUdllddRRUrrdLdlUlluurDuurrDDLUdddrU
+ruLulllddRRULrrrdLdlU
+
+
+'PICOKOSMOS 17 David Holland variant'
+
+ #####
+ #@. #
+ #$.$#
+ # * #
+ # * #
+## * #
+#  * ##
+#. *  #
+# $   #
+###  ##
+  ####
+
+Best Solution 500/171
+DDDRUldDDRUdllddRRUrrdLdlUlluurDuurrDDLUdddrUruLulllddRRUrrdLdlUlluurD
+uuuurrDDLUrdDDLUdddrUruLulllddRRUdlluurDrddrUruLuuullDDRUdllddRRUrrdLd
+lUlluurDuurrDDLUdddrUruLulllddRRUrrdLdlUlluurDuuuuuurrDDLUrdDDLUrdDDLU
+dddrUruLulllddRRUdlluurDrddrUruLuuullDDRUdllddRRUrrdLdlUlluurDuurrDDLU
+dddrUruLulllddRRUdlluurDrddrUruLuuuuullDDRUldDDRUdllddRRUrrdLdlUlluurD
+uurrDDLUdddrUruLulllddRRUrrdLdlUlluurDuuuurrDDLUrdDDLUdddrUruLulllddRR
+UdlluurDrddrUruLuuullDDRUdllddRRUrrdLdlUlluurDuurrDDLUdddrUruLulllddRR
+ULrrrdLdlU
