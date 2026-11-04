@@ -1,0 +1,23 @@
+version: 0.2
+phases:
+  install:
+    runtime-versions:
+      nodejs: 22
+    commands:
+      - echo Installing site NPM dependencies...
+      - npm ci --quiet
+  pre_build:
+    commands:
+  build:
+    commands:
+      - echo Build started on `date`
+      - npm run build
+  post_build:
+    commands:
+      - echo Post Build started on `date`
+      # copy the contents of /build to S3
+      - aws s3 rm --recursive s3://$BUCKET_SITIO
+      - aws s3 cp --recursive --acl public-read ./public s3://$BUCKET_SITIO
+      # invalidate the CloudFront distribution
+      - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION --paths "/*"
+      - echo Post Build completed on `date`

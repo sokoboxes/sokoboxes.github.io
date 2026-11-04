@@ -1,0 +1,192 @@
+@import 'https://fonts.googleapis.com/css?family=Lato';
+
+@import 'https://fonts.googleapis.com/css?family=Staatliches';
+
+@font-face {
+    font-family: '04b11';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/04b11.woff2') format('woff2');
+}
+
+body {
+    background: rgb(48, 0, 81);
+    background-image: url('../img/sokoboxes.svg'),
+    linear-gradient(to right, rgb(12, 7, 41) 66%, rgb(0, 0, 81));
+    background-size: 55rem, 100%;
+    background-repeat: repeat;
+}
+
+.bg-boxes {
+    background-image: url('../img/boxes_background.png');
+}
+
+.hidden {
+    position: absolute;
+    left: -10000px;
+    top: 0;
+}
+
+img, .no-shrink {
+    flex-shrink: 0; /* prevents shrinking inside flex containers */
+    width: auto; /* respect natural width */
+    height: auto;
+}
+
+.sokoboxes-title {
+    font-family: '04b11' !important;
+    text-transform: uppercase;
+}
+
+p {
+    line-height: 1.1;
+}
+
+h3 {
+    font-family: 'Staatliches' !important;
+    font-size: 1.4rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    color: #4530b9;
+    margin-top: 0.5rem !important;
+}
+
+img.screenshot {
+    image-rendering: pixelated;
+}
+
+button.btn-card-game-carousel {
+    color: #212529;
+    background-color: #fde674;
+    border-color: #fde674;
+}
+
+button.btn.btn-card-game-carousel.focus,
+button.btn.btn-card-game-carousel:focus {
+    box-shadow: none;
+}
+
+button.btn.btn-card-game-carousel.active,
+button.btn.btn-card-game-carousel:active {
+    background-color: #c0af58;
+}
+
+.card-img-container {
+    position: relative;
+}
+
+.card-img-container .spinner {
+    position: absolute;
+    left: calc(50% - 0.5rem);
+    top: calc(50% - 0.5rem);
+}
+
+.semitransparent {
+    opacity: 0.4;
+}
+
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+code {
+    font-family: monospace;
+    font-size: inherit;
+}
+
+pre > code,
+p > code,
+li > code,
+dd > code,
+td > code {
+    background: #ffeff0;
+    word-wrap: break-word;
+    box-decoration-break: clone;
+    padding: .1rem .3rem .2rem;
+    border-radius: .2rem;
+}
+
+@media (min-width: 992px) {
+    #mainNav {
+        background-image: linear-gradient(
+                rgba(0, 0, 0, 1),
+                rgba(0, 0, 0, 0)
+        ) !important;
+    }
+}
+
+@media (max-width: 992px) {
+    .btn-slide {
+        font-size: 1rem;
+    }
+}
+
+@media (min-width: 992px) {
+    img.max-width-320px {
+        max-width: 320px;
+    }
+
+    img.cassette-tape-front {
+        max-width: 602px;
+    }
+}
+
+@media (min-width: 768px) {
+    /* Tablet */
+    .puzzle-img {
+        width: 50%;
+    }
+    .lost-puzzle-img {
+        width: 75%;
+    }
+
+}
+
+@media (min-width: 992px) {
+    /* Desktop */
+    .puzzle-img {
+        width: 25%;
+    }
+    .lost-puzzle-img {
+        width: 50%;
+    }
+}
+
+.interview .question {
+    margin-bottom: 20px;
+}
+
+.interview .answer {
+    margin-bottom: 20px;
+}
+
+.interview .question p {
+    margin-bottom: 0;
+}
+
+.interview .answer p {
+    margin-bottom: 0;
+}
+
+code.note {
+    background-color: #c7f7a3;
+    color: #212529;
+    font-family: sans-serif;
+}
+
+.duo_logo {
+    max-width: 12rem;
+}
+.sokoban-map {
+    font-family: var(--font-family-monospace, monospace);
+    line-height: 1.1;
+    font-size: 0.8rem;
+}
+table td .sokoban-map {
+    margin: 0;
+    padding: 0;
+}
+pre.sokoban-map {
+    overflow: unset;
+}
